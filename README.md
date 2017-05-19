@@ -1,3 +1,3 @@
 # hello-world
 
-# making some ballsy edits
+Making some ballsy edits to the hello-world readme
